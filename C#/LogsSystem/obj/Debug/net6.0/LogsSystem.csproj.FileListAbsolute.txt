@@ -1,0 +1,4 @@
+E:\dev\Logs-Write-in-System-Logs\C#\LogsSystem\obj\Debug\net6.0\LogsSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\Logs-Write-in-System-Logs\C#\LogsSystem\obj\Debug\net6.0\LogsSystem.AssemblyInfoInputs.cache
+E:\dev\Logs-Write-in-System-Logs\C#\LogsSystem\obj\Debug\net6.0\LogsSystem.AssemblyInfo.cs
+E:\dev\Logs-Write-in-System-Logs\C#\LogsSystem\obj\Debug\net6.0\LogsSystem.csproj.CoreCompileInputs.cache
